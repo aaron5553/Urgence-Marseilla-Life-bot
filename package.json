@@ -5,7 +5,7 @@
   "scripts": {
     "start": "node index.js"
   },
-  "dependencies": {
+  "dependencies": {npm install discord.js dotenv
     "discord.js": "^14.12.1",
     "dotenv": "^16.3.1"
   }
